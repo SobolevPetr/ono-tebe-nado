@@ -256,15 +256,15 @@ li:last-child {
     margin-left: 25px;
 }
 
-.about__text-1 {
-    font-family: Raleway, Arial, Helvetica, sans-serif,sans-serif;
+.about__paragraph {
+    font-family: Raleway, Arial, Helvetica, sans-serif;
     font-size: 20px;
     font-weight: 400;
     line-height: 24px;
     margin-left: 25px;
 }
 
-.about__text-1:first-of-type {
+.about__paragraph:first-of-type {
     margin-bottom: 23px;
     padding-top: 100px;
   }
